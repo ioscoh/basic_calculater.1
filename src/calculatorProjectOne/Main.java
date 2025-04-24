@@ -14,6 +14,7 @@ public class Main {
         System.out.println("첫 번째 정수를 입력하세요. :");
         int a = scanner.nextInt();
 
+
         System.out.println("두 번째 정수를 입력하세요. :");
         int b = scanner.nextInt();
 
